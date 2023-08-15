@@ -14,6 +14,7 @@ The primary objective of this project is to develop a set of Machine Learning mo
 
 ### Features
 **Exploratory Data Analysis (EDA)**: We have performed thorough exploratory data analysis to gain insights into the dataset, enabling us to understand the distribution of fraudulent and non-fraudulent transactions.
+The dataset is not able to upload over GitHub(size>25MB), can visit link as given below
 Dataset: https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/input
 
 Balanced Dataset: To mitigate the impact of class imbalance, we've employed both **Undersampling and SMOTE (Synthetic Minority Over-sampling Technique)** techniques to achieve a balanced dataset. This enhances the performance of our models by ensuring they are not biased towards the majority class.
